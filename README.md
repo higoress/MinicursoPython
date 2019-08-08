@@ -13,7 +13,7 @@ Ele é destinado para pessoas que já tenham algum conhecimento prévio sobre l�
 1. Operações (manipulando os dados)
 1. Casting (transformando dados)
 1. Tipos de dados avançados
-1. + Operações (brincando com dados avançados)
+1. Mais Operações (brincando com dados avançados)
 1. Condicionais (se, senão, senão se)
 1. Laços de repetição (for, while)
 1. Funções (reaproveitando lógica)  *lembrar de falar sobre responsabilidade única*
