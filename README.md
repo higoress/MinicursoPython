@@ -8,7 +8,7 @@ Ele é destinado para pessoas que já tenham algum conhecimento prévio sobre l�
 ### CONTEÚDO:
 
 1. Introdução
-1. [Tipos de dados] (https://github.com/higoress/MinicursoPython/Material/tiposdedados.ipynb)
+1. [Tipos de dados](https://github.com/higoress/MinicursoPython/blob/master/Material/tiposdedados.ipynb)
 1. Entrada e saída de dados (conversando com o computador)
 1. Operações (manipulando os dados)
 1. Casting (transformando dados)
